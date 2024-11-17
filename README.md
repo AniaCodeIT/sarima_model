@@ -5,6 +5,7 @@ This project was developed as part of a university class to demonstrate time ser
 Stock price prediction is a challenging task due to the volatile nature of financial markets. In this project, we leveraged:
 
 ARIMA (Auto-Regressive Integrated Moving Average): A fundamental time series forecasting method.
+
 SARIMA (Seasonal Auto-Regressive Integrated Moving Average): An extension of ARIMA that incorporates seasonality into the model.
 ## Features
 Historical stock price data analysis.
