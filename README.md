@@ -7,11 +7,6 @@ Stock price prediction is a challenging task due to the volatile nature of finan
 ARIMA (Auto-Regressive Integrated Moving Average): A fundamental time series forecasting method.
 
 SARIMA (Seasonal Auto-Regressive Integrated Moving Average): An extension of ARIMA that incorporates seasonality into the model.
-## Features
-Historical stock price data analysis.
-ARIMA and SARIMA model fitting and parameter optimization.
-Forecast visualization with confidence intervals.
-Comparative evaluation of model performance.
 ## Technologies Used
 Programming Language: Python
 ### Libraries:
